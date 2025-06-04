@@ -10,7 +10,8 @@ This is a simple clone of the Netflix homepage built using only HTML and CSS. It
 
 ## Screenshots
 
-(Add a screenshot here if you have one)
+![image](https://github.com/user-attachments/assets/ed19981a-f293-4a1d-beee-f27dceccbac9)
+
 
 ## Live Demo
 
