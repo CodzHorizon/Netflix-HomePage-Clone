@@ -68,8 +68,8 @@
     .netflix-logo{
         margin-top: -15px;
         margin-left: -15px;
-        height: 2rem !important;
-        width: 5.5rem !important;
+        height: 2.1rem !important;
+        width: 6.5rem !important;
 
     }
     .nav-btn {
@@ -232,7 +232,7 @@ body {
 
 nav {
     box-sizing: border-box;
-    margin: 0 10%;
+    margin: 0 9%;
     /* width: 100%; */
     display: flex;
     align-items: center;
