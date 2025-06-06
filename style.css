@@ -572,7 +572,7 @@ nav div {
     justify-content: center;
     /* border: 3px solid white; */
     /* padding: 2px; */
-    width: 83%;
+    width: 88%;
     margin: auto auto;
     margin-bottom: 3rem;
 }
@@ -692,7 +692,7 @@ nav div {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     grid-auto-rows: minmax(280px, auto);
-    gap: 8px;
+    gap: 13px;
     /* border: 2px solid rgb(224, 17, 17); */
 }
 
