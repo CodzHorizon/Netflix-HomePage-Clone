@@ -1,12 +1,8 @@
-# Netflix Homepage Clone
+# 🎬 Netflix HomePage Clone
 
-This is a simple clone of the Netflix homepage built using only HTML and CSS. It was created as my first project to practice basic front-end skills including layout, positioning, flexbox, and responsive design.
+A static front-end clone of the Netflix homepage, built with HTML, CSS, and JavaScript. This project replicates the design and layout of Netflix's landing page for educational and UI/UX practice purposes.
 
-## Features
-
-- Static Netflix landing page
-- Fully responsive layout
-- Built using HTML5 and CSS3 only
+🔗 **Live Demo**: [CodzHorizon.github.io/Netflix-HomePage-Clone](https://CodzHorizon.github.io/Netflix-HomePage-Clone/)
 
 ## Screenshots
 
@@ -16,7 +12,40 @@ This is a simple clone of the Netflix homepage built using only HTML and CSS. It
 ### Mobile View
 ![image](https://github.com/user-attachments/assets/5e6fbafd-836d-4987-8a39-fcff842b55a8)
 
+---
 
-## Author
+## ✨ Features
 
-- CodzHorizon (https://github.com/CodzHorizon)
+- Responsive layout that adapts to desktop and mobile
+- Hero background with overlay and call-to-action
+- Sample sign-in form section
+- Clean and modern UI styled with pure CSS
+- Simple animations and hover effects
+
+---
+
+## 🎯 Purpose
+
+This project was created to:
+
+- Practice front-end web development (HTML, CSS, JS)
+- Replicate modern UI designs
+- Showcase skills in responsive layout and styling
+
+---
+
+## ⚠️ Disclaimer
+
+This is an independent, educational clone. All assets, branding, and trademarks belong to Netflix, Inc. This project is not affiliated with or endorsed by Netflix.
+
+---
+
+## 📝 License
+
+Open-source under the [MIT License](./LICENSE). Free to use with proper attribution.
+
+---
+
+## 👨‍💻 Author
+
+GitHub: [@CodzHorizon](https://github.com/CodzHorizon)
