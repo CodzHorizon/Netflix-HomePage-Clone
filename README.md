@@ -1,6 +1,6 @@
-# 🎬 Netflix HomePage Clone
+# 🎬 Netflix HomePage Clone (My First Project)
 
-A static front-end clone of the Netflix homepage, built with HTML, CSS, and JavaScript. This project replicates the design and layout of Netflix's landing page for educational and UI/UX practice purposes.
+A static front-end clone of the Netflix homepage, built with HTML And CSS . This project replicates the design and layout of Netflix's landing page for educational and UI/UX practice purposes.
 
 🔗 **Live Demo**: [CodzHorizon.github.io/Netflix-HomePage-Clone](https://CodzHorizon.github.io/Netflix-HomePage-Clone/)
 
@@ -28,7 +28,7 @@ A static front-end clone of the Netflix homepage, built with HTML, CSS, and Java
 
 This project was created to:
 
-- Practice front-end web development (HTML, CSS, JS)
+- Practice front-end web development (HTML, CSS)
 - Replicate modern UI designs
 - Showcase skills in responsive layout and styling
 
